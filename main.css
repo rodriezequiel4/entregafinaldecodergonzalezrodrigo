@@ -213,7 +213,7 @@ align-items: flex-end;
 
 }
 
-@media (min-width: 720px){
+@media (min-width: 576px){
 
 header{
     position: fixed;
@@ -268,4 +268,4 @@ justify-content: center;
 }
 
 
-/* estilo de mates.html */
+

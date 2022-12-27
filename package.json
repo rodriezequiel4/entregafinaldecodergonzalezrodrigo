@@ -1,0 +1,14 @@
+{
+  "name": "preentrega2",
+  "version": "1.0.0",
+  "description": "proyecto de coder",
+  "main": "index.js",
+  "scripts": {
+    "build-sass":"node-sass --include-path scss scss/main.scss css/main.css"
+  },
+  "author": "rodrigo gonzalez",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
