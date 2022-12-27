@@ -1,0 +1,22 @@
+{
+  "name": "segundapreentregagonzalez",
+  "version": "1.0.0",
+  "description": "tercera pre entrega",
+  "main": "index.js",
+  "scripts": {
+    "build-sass":"node-sass --include-path scss scss/main.scss css/main.estilos.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodriezequiel4/segundapreentregagonzalez.git"
+  },
+  "author": "rodrigo ezequiel gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodriezequiel4/segundapreentregagonzalez/issues"
+  },
+  "homepage": "https://github.com/rodriezequiel4/segundapreentregagonzalez#readme",
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
